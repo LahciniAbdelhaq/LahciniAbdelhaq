@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm abdelhaq lahcini</h1>
 <h3 align="center">A passionate frontend developer and back-end from marocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahciniabdelhaq&label=Profile%20views&color=0e75b6&style=flat" alt="lahciniabdelhaq" /> </p>
+<p align="left"> <img src="https://film4u.wuaze.com/" alt="lahciniabdelhaq" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
